@@ -1,0 +1,22 @@
+.c{
+    width: 25%;
+    height: 400px;
+    background-color:aqua ;
+    border: white 8px solid;
+    float: left;
+    padding: 103px;
+}
+
+img{
+    width: 40%;
+    height: 200px;
+}
+h1{
+
+    text-align: center;
+}
+p{
+font-size: x-large;
+}
+
+
